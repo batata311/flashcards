@@ -1,3 +1,16 @@
 body {
     background-color: rgb(91, 231, 224);
 }
+
+footer {
+    background-color: black;
+    color: white;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+}
+
+footer p{
+    text-align: center;
+    font-size: 0.6rem;
+}
