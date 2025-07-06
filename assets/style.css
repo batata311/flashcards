@@ -90,3 +90,12 @@ footer p {
  .cartao__conteudo__resposta {
     transform: rotateY(180deg);
  }
+button:hover {
+  background-color: slateblue;
+}
+div {
+  transform: rotate(45deg);
+}
+button {
+  transition: background-color 0.3s ease;
+}
